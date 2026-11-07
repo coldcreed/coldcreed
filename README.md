@@ -1,6 +1,6 @@
 # Archie
 
-Co-founder of [Minni AI](https://minniai.com). Solutions engineer at a startup. Ex-Amazon software engineer.
+Co-founder of [Minni AI](https://minniai.com). Solutions engineer at a YC backed startup. Ex-Amazon software engineer.
 
 ## Minni AI
 
