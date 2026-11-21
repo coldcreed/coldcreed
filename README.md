@@ -2,11 +2,11 @@
 
 Co-founder of [Minni AI](https://minniai.com). Solutions engineer at a YC backed startup. Ex-Amazon software engineer.
 
-## Minni AI
+## Minni Labs
 
-Most AI agents burn tokens on context they never use. We build the tools that put a stop to that madness
+Optimizing agent workflows to reduce token consumption alongside workstation optimization solutions.
 
-**[MinniMemoryMCP](https://minniai.com/minnimemorymcp)**: Coding agents re-read their entire memory every turn. This stops that. [27.4% cheaper](https://minniai.com/evidence) in a measured Claude Code run.
+**[MinniMemoryMCP](https://minniai.com/minnimemorymcp)**: Coding agents re-read their entire memory every turn. This stops that. [27.4% cheaper](https://minniai.com/evidence)
 
 **[MinniTuner](https://minniai.com/minnituner)**: Tell it what feels slow. It reads your PC, proposes a plan and applies it with undo. Nothing changes until you approve it.
 
